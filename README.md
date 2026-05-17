@@ -63,8 +63,7 @@ Prices,
 Features,
 Discounts,
 Stored extracted data into a Pandas DataFrame,
-Exported the final dataset as CSV<img width="1214" height="622" alt="Screenshot 2026-04-18 200918" src="https://github.com/user-attachments/assets/180fbe64-6daa-4fc7-a58d-4c2bec1ca4d0" />
-
+Exported the final dataset as CSV
 
 Description :
 •Extracted product data (name, price, ratings, discounts) from Flipkart using Python (web scrapping),
@@ -80,6 +79,7 @@ Description :
 <img width="1194" height="593" alt="Screenshot 2026-04-18 200818" src="https://github.com/user-attachments/assets/05c4f1ef-f423-4e4d-8338-1fe08126b82c" />
 <img width="1219" height="602" alt="Screenshot 2026-04-18 200745" src="https://github.com/user-attachments/assets/ba2f11f0-4b99-4043-97dc-5bec25243135" />
 <img width="1234" height="614" alt="Screenshot 2026-04-18 195713" src="https://github.com/user-attachments/assets/2b8cb28e-d133-49bd-97b8-0b298097ce69" />
+<img width="1214" height="622" alt="Screenshot 2026-04-18 200918" src="https://github.com/user-attachments/assets/508ddef7-3948-4d81-a197-029d5800b453" />
 
 
 The project includes:
