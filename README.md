@@ -122,7 +122,3 @@ data cleaning & manipulation of dataset
 Author:
 Sanjay
 Aspiring Data Analyst | Python | SQL | Power BI | Data Analytics
-
-
-Discounts significantly affect product popularity
-Some brands dominate the market in terms of ratings and customer engagement
