@@ -159,19 +159,25 @@ Through this project, I gained hands-on experience in:
 **Sanjay**
 Aspiring Data Analyst | Python | SQL | Power BI | Data Analytics
 
-```
-<imgwidth="1214" height="622" alt="Screenshot 2026-04-18 200918" src="https://github.com/user-attachments/assets/80a596a9-9aab-4194-969d-902cef77e1d5" />
 ---
-<img width="1233" height="606" alt="Screenshot 2026-04-18 200904" src="https://github.com/user-attachments/assets/24198dd1-6ff1-42d0-b3db-6de9bea1f25f" />
+<img width="1234" height="614" alt="Screenshot 2026-04-18 195713" src="https://github.com/user-attachments/assets/c1ed2432-b053-4112-961b-f1fb46a327b5" />
 ---
-<img width="1241" height="596" alt="Screenshot 2026-04-18 200853" src="https://github.com/user-attachments/assets/089ed5c9-861a-4349-8915-acc18a450ec5" />
+<img width="1219" height="602" alt="Screenshot 2026-04-18 200745" src="https://github.com/user-attachments/assets/fce6eca2-0053-4857-a8f2-9fde37136f62" />
 ---
-<img width="1187" height="583" alt="Screenshot 2026-04-18 200836" src="https://github.com/user-attachments/assets/b5537858-5f4b-4182-a7cc-533a7f49abde" />
---
-<img width="1194" height="593" alt="Screenshot 2026-04-18 200818" src="https://github.com/user-attachments/assets/05c4f1ef-f423-4e4d-8338-1fe08126b82c" />
---
-<img width="1219" height="602" alt="Screenshot 2026-04-18 200745" src="https://github.com/user-attachments/assets/ba2f11f0-4b99-4043-97dc-5bec25243135" />
+<img width="1194" height="593" alt="Screenshot 2026-04-18 200818" src="https://github.com/user-attachments/assets/5abec62c-94a5-43f2-a576-b3c15f74d3bd" />
 ---
-<img width="1234" height="614" alt="Screenshot 2026-04-18 195713" src="https://github.com/user-attachments/assets/2b8cb28e-d133-49bd-97b8-0b298097ce69" />
+<img width="1187" height="583" alt="Screenshot 2026-04-18 200836" src="https://github.com/user-attachments/assets/76eaad0f-4776-4381-835c-e999eb76944b" />
 ---
-<img width="1214" height="622" alt="Screenshot 2026-04-18 200918" src="https://github.com/user-attachments/assets/508ddef7-3948-4d81-a197-029d5800b453" />
+<img width="1241" height="596" alt="Screenshot 2026-04-18 200853" src="https://github.com/user-attachments/assets/e8050eb7-4b5a-4824-b97b-2af7e9a8b1b7" />
+---
+<img width="1233" height="606" alt="Screenshot 2026-04-18 200904" src="https://github.com/user-attachments/assets/f0aef24f-021a-4882-a4bc-62e89a03d32b" />
+---
+<img width="1214" height="622" alt="Screenshot 2026-04-18 200918" src="https://github.com/user-attachments/assets/6b1988ac-c355-4e6d-8923-428d3cb43dc0" />
+---
+
+
+
+
+
+
+
